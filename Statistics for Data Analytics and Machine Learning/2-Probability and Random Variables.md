@@ -630,7 +630,8 @@ This property is a result of the **empirical rule**, which states that for a nor
    |------------------|------------------|-----------------|-----------------|  
 Mean - 2σ      Mean - 1σ              Mean             Mean + 1σ           Mean + 2σ 
 
-![[9a.png]]
+![9a](https://github.com/user-attachments/assets/039d0611-54ae-4c88-9849-0fa04d717a36)
+
 
 This gives you a sense of how data is spread around the mean in a normal distribution.
 
@@ -646,7 +647,7 @@ This gives you a sense of how data is spread around the mean in a normal distrib
 
 The goal of standardization is to make different data sets comparable, even if they have different units or scales. This is achieved by **transforming** the data values using the formula for the **Z-score**.
 
-![[9d.png]]
+![9d](https://github.com/user-attachments/assets/d03799ee-ddd0-4368-99b6-66896b915ea2)
 
 
 ### Z-Score
@@ -854,7 +855,8 @@ $$
 **Key Insight**:  
 The Central Limit Theorem tells us that **averages behave predictably**, even when the data itself is messy or non-normal.
 
-![[15-0a1.png]]
+![15-0a1](https://github.com/user-attachments/assets/0a450305-3b3a-4473-ba6c-7376a63aa317)
+
 
 ## <p style="text-align:center;"><font color="red">Confidence Interval and the Central Limit Theorem</font></p>
 
